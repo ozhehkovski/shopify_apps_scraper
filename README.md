@@ -1,4 +1,4 @@
-# Title: Shopify App Information Scraper
+# Shopify App Information Scraper
 
 **Description:**
 The Shopify App Information Scraper is a Python tool developed using Scrapy, designed to extract information about apps from the Shopify App Store. This powerful web scraping tool automates the process of collecting comprehensive data about various applications available on the Shopify platform, enabling users to gather valuable insights for market analysis, competitor research, and app selection.
